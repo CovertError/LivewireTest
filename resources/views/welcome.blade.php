@@ -19,7 +19,6 @@
 
     </head>
     <body class="antialiased">
-        <livewire:markdown-x />
         @livewireScripts
 
     </body>
